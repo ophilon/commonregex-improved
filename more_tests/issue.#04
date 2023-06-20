@@ -1,0 +1,2 @@
+import crim as CommonRegex
+CommonRegex.dates("The spyware Trojan 12")

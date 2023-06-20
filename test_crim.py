@@ -4,6 +4,7 @@ def test_cregex_dates():
     test_data = ["3-23-17",
 		"3.23.17",
 		"03.23.17",
+    "23rd of May",
 		"March 23th, 2017",
 		"Mar 23th 2017",
 		"Mar. 23th, 2017",
